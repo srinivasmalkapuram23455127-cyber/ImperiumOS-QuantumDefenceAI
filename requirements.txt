@@ -1,0 +1,3 @@
+# Demo dependencies for ImperiumOS Quantum Defence AI
+random
+time
