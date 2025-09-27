@@ -1,3 +1,5 @@
 # Demo dependencies for ImperiumOS Quantum Defence AI
-random
-time
+# Note: random and time are built-in modules, no pip install needed.
+# File included for standard repo structure.
+
+
