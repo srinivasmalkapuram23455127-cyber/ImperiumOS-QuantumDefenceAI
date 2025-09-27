@@ -1,25 +1,27 @@
-# ImperiumOS – Quantum Defence AI
+# ImperiumOS Quantum Defence AI  
 
-## 📌 Overview
-ImperiumOS is an **AI-powered quantum cybersecurity defense system** designed to protect critical infrastructure, enterprises, and digital ecosystems from advanced threats.  
-It integrates **Artificial Intelligence, Quantum Computing principles, and Cyber Defense Architecture** to provide **unprecedented protection** against evolving cyberattacks.
+## 🌌 Overview  
+ImperiumOS is a **next-generation Quantum Cyber Defense AI** designed to simulate and defend against evolving threats in the cyber domain.  
+This repository contains a **safe public demo** that shows how the AI can detect and neutralize simulated attacks.  
+
+## 🚀 Features in This Demo  
+- Runs a **simulation of 3 random cyber threats**  
+- Demonstrates **detection + defense protocol**  
+- Completely safe — no real hacking or defense logic  
+
+## 🛡 Real Project Notes  
+- The **core AI logic, datasets, and secure algorithms** are private and not published here.  
+- This repo is only for **demo + documentation**.  
+
+## 📂 Structure  
+- `main.py` → Demo simulation code  
+- `docs/overview.md` → Project overview and description  
+
+## 🔮 Future Plans  
+- Expand demo with visualization of attacks/defenses  
+- Add modular AI components  
+- Keep private core logic in separate **secure repos**  
 
 ---
+✨ *This project is a public demo version of ImperiumOS — for research, learning, and inspiration.*
 
-## 🚀 Key Features
-- **Quantum-Resistant Algorithms** – Built to withstand attacks even from future quantum computers.  
-- **AI-Driven Threat Detection** – Real-time identification of anomalies, intrusions, and malicious patterns.  
-- **Adaptive Defence Core** – Learns and evolves continuously to defend against zero-day exploits.  
-- **Secure Multi-Layered Architecture** – Combines ML, cryptography, and quantum-inspired models.  
-- **Scalability** – Can be deployed for enterprises, governments, and defense systems.  
-
----
-
-## 🛠️ Tech Stack
-- **Languages**: Python, C++ (for performance modules)  
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn  
-- **Quantum Tools**: Qiskit, Cirq  
-- **Cybersecurity**: Cryptographic libraries, Secure AI pipelines  
-- **Deployment**: Docker, Kubernetes (future scope)  
-
----
